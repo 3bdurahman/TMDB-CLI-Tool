@@ -1,3 +1,0 @@
-D:/C++ Projects/TMDB CLI Tool/build/CMakeFiles/tmdb-app.dir
-D:/C++ Projects/TMDB CLI Tool/build/CMakeFiles/edit_cache.dir
-D:/C++ Projects/TMDB CLI Tool/build/CMakeFiles/rebuild_cache.dir
